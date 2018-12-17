@@ -1,0 +1,15 @@
+/*
+	El selector de una clase usa el .
+*/
+p.destacado
+{
+	font-size: 150%;
+	font-family: 'Charmonman', cursive;
+}
+/*
+	El selector de clase puede ser independiente de la etiqueta
+*/
+.rojo
+{
+	color: rgba(255,0,0,0.5);
+}
